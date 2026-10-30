@@ -31,8 +31,11 @@ I have successfully installed Kali Linux and set up Wireshark, preparing my envi
 Successfully installed Kali Linux and prepared the desktop environment for my internship tasks.
 
 Kali Linux desktop
+![kali-linux](kali.png)
 
 ## 🦈 2. Wireshark
+
+![wireshark](wireshark.png)
 
 Set up and launched Wireshark on Kali Linux, ready for upcoming network traffic capture and analysis exercises.
 
