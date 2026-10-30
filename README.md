@@ -1,19 +1,53 @@
-# Netwalks Internship
+<div align="center">
 
-This repository documents my tasks and progress during the Netwalks internship.
+# 🛡️ Cybersecurity Lab Setup
 
-## Week 1 — Completed ✅
+### Netwalks Internship · Week 1
 
-I have successfully installed Kali Linux and completed my Week 1 task for the Netwalks internship.
+Krishna Kumar
 
-### 1. Kali Linux
+✅ Week 1 Completed
+</div>
 
-Kali Linux is installed and ready to use.
+———
 
-![Kali Linux](kali.png)
+## 👋 Overview
 
-### 2. Wireshark
+I’m Krishna Kumar, and this repository documents my Week 1 lab setup for the Netwalks Internship.
 
-Wireshark is set up and running on Kali Linux.
+I have successfully installed Kali Linux and set up Wireshark, preparing my environment for upcoming cybersecurity tasks.
 
-![wireshark](wireshark.png)
+## 📋 Task Summary
+
+| Detail | Information |
+|:---|:---|
+| Name | Krishna Kumar |
+| Week | 1 |
+| Task | Cybersecurity Lab Setup |
+| Status | ✅ Completed |
+
+## 🐉 1. Kali Linux
+
+Successfully installed Kali Linux and prepared the desktop environment for my internship tasks.
+
+Kali Linux desktop
+
+## 🦈 2. Wireshark
+
+Set up and launched Wireshark on Kali Linux, ready for upcoming network traffic capture and analysis exercises.
+
+Wireshark running on Kali Linux
+
+## ✅ Completion Checklist
+
+- [x] Install Kali Linux.
+- [x] Set up and launch Wireshark.
+- [x] Document the setup with screenshots.
+- [x] Complete the Week 1 lab setup task.
+
+———
+<div align="center">
+
+Krishna Kumar | Netwalks Internship
+Learning cybersecurity through hands-on practice. 🔐
+</div>
