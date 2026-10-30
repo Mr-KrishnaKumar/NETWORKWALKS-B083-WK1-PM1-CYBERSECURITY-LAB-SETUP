@@ -10,10 +10,10 @@ I have successfully installed Kali Linux and completed my Week 1 task for the Ne
 
 Kali Linux is installed and ready to use.
 
-https://github.com/Mr-KrishnaKumar/Netwalks-internship/blob/main/kali.png
+![Kali Linux](kali.png)
 
 ### 2. Wireshark
 
 Wireshark is set up and running on Kali Linux.
 
-![Wireshark running on Kali Linux](week-1/screenshots/02-wireshark.png)
+![wireshark](wireshark.png)
