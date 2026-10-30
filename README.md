@@ -10,7 +10,7 @@ I have successfully installed Kali Linux and completed my Week 1 task for the Ne
 
 Kali Linux is installed and ready to use.
 
-![Kali Linux desktop](week-1/screenshots/01-kali-linux.png)
+https://github.com/Mr-KrishnaKumar/Netwalks-internship/blob/main/kali.png
 
 ### 2. Wireshark
 
